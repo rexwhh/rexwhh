@@ -6,7 +6,7 @@
 
 - 📫 contact information: **rexwhh@gmail**
 
-- 🎹 other informations about me: **i also have a career in music**
+- 🎹 other information about me: **i also have a career in music**
   
 ### 💁‍♂️Social Media
 <p align="left">
