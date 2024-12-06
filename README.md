@@ -2,7 +2,7 @@
 **`Bachelor of Science at Feng Chia University`**
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*ubCR6WyFNthQVQ9D4AIO9g.gif">
 
-- 🌱 i’m currently learning **more about Software Engineering**
+- 🌱 i’m currently learning **ASP.NET Core MVC**
 
 - 📫 contact information: **rexwhh@gmail**
 
