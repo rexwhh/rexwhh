@@ -20,6 +20,8 @@
 ### 🎵 Feel Free To Check Out My Music Too
 <p align="left">
   <a href="https://soundcloud.com/laegseu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg"     alt="rexwhh" height="30" width="40" /></a>
+  <a href="https://youtube.com/@laegseu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"     alt="rexwhh" height="30" width="40" /></a>
+</p>
   <a href="https://instagram.com/laegseu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"     alt="rexwhh" height="30" width="40" /></a>
   <a href="https://twitter.com/imlaegseu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"     alt="rexwhh" height="30" width="40" /></a>
   <a href="https://youtube.com/@laegseu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"     alt="rexwhh" height="30" width="40" /></a>
