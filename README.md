@@ -2,8 +2,6 @@
 **`Bachelor of Science at Feng Chia University`**
 
 - 📖 Currently Learning **HTML、CSS、JavaScript**
-  
-- 🎮 Also Interested In **Game Development**
 
 - 📫 Contact Information: **rexwhh@gmail**
 
